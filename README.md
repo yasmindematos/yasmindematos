@@ -45,6 +45,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/yasmindematos/yasmindematos/blob/output/github-contribution-grid-snake.svg)
+<center>![snake gif](https://github.com/yasmindematos/yasmindematos/blob/output/github-contribution-grid-snake.svg)</center>
 
 ###
