@@ -11,7 +11,7 @@
 
 ###
 <hr>
-<h3 align="center"> 💼 Languages and Tools</h3>
+<h3 align="center"> 💼 Linguagens e Ferramentas</h3>
 <br>
 
 <div align="center">
