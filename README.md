@@ -1,4 +1,7 @@
-<p align="center">Oi! Muito prazer! 😄 Tudo bem?<br><br>🙋‍♀️ Meu nome é Yasmin, sou dos anos 90 e, claro, pode-se dizer que sou uma leitora voraz que se encanta com filmes e séries. Atualmente, mergulhada em palavras como nunca!<br><br>👩‍💻 Em 2022, me tornei estudante da Alura por meio do Empower Code for Woman by Zenvia, pois notei que por adorar tanto estruturas, além de notar o quanto se pode mudar o mundo com palavras e sistemas inclusivos, ainda quero aprender mais, podendo, desta maneira, agregar muito a este nosso universo tão vasto. A programação, assim, se torna parte de quem sou e do que quero!</p>
+<p>
+  <h1 align="center"><b>Oi! Eu sou a Yasmin. 😄 Muito prazer!</h1>
+</p>
+<br>🙋‍♀️ Meu nome é Yasmin, sou dos anos 90 e, claro, pode-se dizer que sou uma leitora voraz que se encanta com filmes e séries. Atualmente, mergulhada em palavras como nunca!<br><br>👩‍💻 Em 2022, me tornei estudante da Alura por meio do Empower Code for Woman by Zenvia, pois notei que por adorar tanto estruturas, além de notar o quanto se pode mudar o mundo com palavras e sistemas inclusivos, ainda quero aprender mais, podendo, desta maneira, agregar muito a este nosso universo tão vasto. A programação, assim, se torna parte de quem sou e do que quero!</p>
 
 ###
 
@@ -7,6 +10,9 @@
 </div>
 
 ###
+<hr>
+<h3 align="center"> 💼 Languages and Tools</h3>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -32,7 +38,7 @@
 </div>
 
 ###
-
+<hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
