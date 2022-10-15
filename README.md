@@ -1,7 +1,9 @@
+<div align="center">
 <p>
-  <h1 align="center"><b>Oi! Eu sou a Yasmin. 😄 Muito prazer!</h1>
+  <img height="300" src="https://user-images.githubusercontent.com/98225965/195959414-3457bbbf-559b-42da-a848-723349b97553.png"  />
 </p>
-<br>🙋‍♀️ Pode me chamar de Yas, ok? Bem, eu sou dos anos 90 e, claro, pode-se dizer que sou uma leitora voraz que se encanta com filmes e séries. Atualmente, mergulhada em palavras como nunca!<br><br>👩‍💻 Em 2022, me tornei estudante da Alura por meio do Empower Code for Woman by Zenvia, pois notei que por adorar tanto estruturas, além de notar o quanto se pode mudar o mundo com palavras e sistemas inclusivos, ainda quero aprender mais, podendo, desta maneira, agregar muito a este nosso universo tão vasto. A programação, assim, se torna parte de quem sou e do que quero!</p>
+</div>
+<br>🙋‍♀️ Muito prazer! Eu sou a Yasmin, mas pode me chamar de Yas, ok? Bem, eu sou dos anos 90 e, claro, pode-se dizer que sou uma leitora voraz que se encanta com filmes e séries. Atualmente, mergulhada em palavras como nunca!<br><br>👩‍💻 Em 2022, me tornei estudante da Alura por meio do Empower Code for Woman by Zenvia, pois notei que por adorar tanto estruturas, além de notar o quanto se pode mudar o mundo com palavras e sistemas inclusivos, ainda quero aprender mais, podendo, desta maneira, agregar muito a este nosso universo tão vasto. A programação, assim, se torna parte de quem sou e do que quero!</p>
 
 ###
 
