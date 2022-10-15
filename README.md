@@ -7,11 +7,6 @@
 
 ###
 
-<div align="right">
-  <img height="150" src="https://www.imagemhost.com.br/images/2022/08/10/hello-world.png"  />
-</div>
-
-###
 <hr>
 <h3 align="center"> 💼 Linguagens e Ferramentas</h3>
 <br>
