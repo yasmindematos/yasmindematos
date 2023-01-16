@@ -3,7 +3,18 @@
   <img height="300" src="https://user-images.githubusercontent.com/98225965/195967757-d5704a01-f4d7-4bde-910e-89615f273504.png"  />
 </p>
 </div>
-🙋‍♀️ Muito prazer! Eu sou a Yasmin, mas pode me chamar de Yas, ok? Bem, eu sou dos anos 90 e, claro, pode-se dizer que sou uma leitora voraz que se encanta com filmes e séries. Atualmente, mergulhada em palavras como nunca!<br><br>👩‍💻 Em 2022, me tornei estudante da Alura por meio do Empower Code for Woman by Zenvia, pois notei que por adorar tanto estruturas, além de notar o quanto se pode mudar o mundo com palavras e sistemas inclusivos, ainda quero aprender mais, podendo, desta maneira, agregar muito a este nosso universo tão vasto. A programação, assim, se torna parte de quem sou e do que quero!</p>
+🙋‍♀️ Muito prazer! Olá! Sou a Yasmin, formada em Letras - Inglês, pós-graduada em Linguística e completamente apaixonada por Desenvolvimento Front-End e experiência do usuário. Adoro a maneira com que a programação me faz superar meus limites a cada dia e amo perceber as formas com que posso resolver cada um desses desafios.
+
+👩‍💻 Durante minha carreira nas áreas de edição, revisão e tradução de textos, além de preparação de materiais, adquiri a habilidade de lidar com equipes diversas, de trabalhar sob pressão e com prazos determinados. Enquanto a experiência em ensino e preparação de docentes me permitiu compreender as necessidades do outro, buscando trazer a ele a melhor experiência possível. 
+
+Desta forma, desenvolvi muitas competências durante minha carreira, as quais se mostram essenciais para o perfil de desenvolvedora, como disciplina, comunicação assertiva e aprendizado aprofundado.
+
+Em 2022, me tornei estudante do Empower Code for Woman by Zenvia e Alura. E em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas, assim Dev e UX hoje é parte de quem sou e do que quero!
+
+Desenvolvi muitos projetos que estão em meu GitHub, e para isso, até o momento, utilizei:
+- Javascript
+- CSS
+- HTML</p>
 
 ###
 
