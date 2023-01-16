@@ -9,8 +9,8 @@
 👩‍💻 Durante minha carreira nas áreas de edição, revisão e tradução de textos, além de preparação de materiais, adquiri a habilidade de lidar com equipes diversas, de trabalhar sob pressão e com prazos determinados. Enquanto a experiência em ensino e preparação de docentes me permitiu compreender as necessidades do outro, buscando trazer a ele a melhor experiência possível. Desta forma, desenvolvi muitas competências durante minha carreira, as quais se mostram essenciais para o perfil de desenvolvedora, como disciplina, comunicação assertiva e aprendizado aprofundado. Em 2022, me tornei estudante do Empower Code for Woman by Zenvia e Alura. E em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas, assim Dev e UX hoje é parte de quem sou e do que quero!
 <br>
 <br>
-Desenvolvi muitos projetos que estão em meu GitHub, e para isso, até o momento, utilizei:]
-<br><br>
+Desenvolvi muitos projetos que estão em meu GitHub, e para isso, até o momento, utilizei:
+<br>
 - Javascript
 - CSS
 - HTML</p>
