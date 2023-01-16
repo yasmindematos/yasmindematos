@@ -12,7 +12,9 @@
 Desenvolvi muitos projetos que estão em meu GitHub, e para isso, até o momento, utilizei:
 <br>
 - Javascript
+<br>
 - CSS
+<br>
 - HTML</p>
 
 ###
