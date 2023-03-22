@@ -10,7 +10,7 @@
 
 Desta forma, desenvolvi muitas competências durante minha carreira, as quais se mostram essenciais para o perfil dentre a área Tech, como disciplina, comunicação assertiva e aprendizado aprofundado.
 
-Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas, assim Dev e UX hoje é parte de quem sou e do que quero!
+Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas e estagiária na área de User Experience, assim Dev e UX hoje é parte de quem sou e do que quero!
 
 Para isso, até o momento, desenvolvi projetos usando:
 - Javascript
