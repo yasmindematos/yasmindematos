@@ -3,7 +3,7 @@
   <img height="300" src="https://user-images.githubusercontent.com/98225965/195967757-d5704a01-f4d7-4bde-910e-89615f273504.png"  />
 </p>
 </div>
-Oi! Sou a Yasmin, formada em Letras - Inglês, pós-graduada em Linguística e completamente apaixonada por UA e Desenvolvimento Front-End. Adoro a maneira com que a área de programação e experiência da pessoa usuária me fazem superar meus limites a cada dia e amo perceber as formas com que posso resolver cada desafio que se apresenta nessa jornada.
+Oi! Sou a Yasmin, formada em Letras - Inglês, pós-graduada em Linguística e completamente apaixonada por UX e Desenvolvimento Front-End. Adoro a maneira com que a área de programação e experiência da pessoa usuária me fazem superar meus limites a cada dia e amo perceber as formas com que posso resolver cada desafio que se apresenta nessa jornada.
 <br>
 <br>
 👩‍💻 Durante minha carreira nas áreas de edição, revisão e tradução de textos, além de preparação de materiais, adquiri a habilidade de lidar com equipes diversas, de trabalhar sob pressão e com prazos determinados. Enquanto a experiência em ensino e preparação de docentes me permitiu compreender as necessidades da outra pessoa, buscando trazer assim a melhor experiência possível. 
