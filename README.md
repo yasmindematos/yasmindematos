@@ -44,7 +44,7 @@ Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, 
   <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="ApenasYaz#8259" target="_blank">
+  <a href="mechamadeyaz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://twitter.com/mechamadeyaz" target="_blank">
