@@ -3,19 +3,15 @@
   <img height="300" src="https://user-images.githubusercontent.com/98225965/195967757-d5704a01-f4d7-4bde-910e-89615f273504.png"  />
 </p>
 </div>
-🙋‍♀️ Oi! Sou a Yasmin, formada em Letras - Inglês, pós-graduada em Linguística e completamente apaixonada por Desenvolvimento Front-End e UX. Adoro a maneira com que a área de programação e experiência do usuária me fazem superar meus limites a cada dia e amo perceber as formas com que posso resolver cada desafio que se apresenta nessa jornada.
+Oi! Sou a Yasmin, formada em Letras - Inglês, pós-graduada em Linguística e completamente apaixonada por UA e Desenvolvimento Front-End. Adoro a maneira com que a área de programação e experiência da pessoa usuária me fazem superar meus limites a cada dia e amo perceber as formas com que posso resolver cada desafio que se apresenta nessa jornada.
 <br>
 <br>
-👩‍💻 Durante minha carreira nas áreas de edição, revisão e tradução de textos, além de preparação de materiais, adquiri a habilidade de lidar com equipes diversas, de trabalhar sob pressão e com prazos determinados. Enquanto a experiência em ensino e preparação de docentes me permitiu compreender as necessidades do outro, buscando trazer a ele/ela a melhor experiência possível. 
+👩‍💻 Durante minha carreira nas áreas de edição, revisão e tradução de textos, além de preparação de materiais, adquiri a habilidade de lidar com equipes diversas, de trabalhar sob pressão e com prazos determinados. Enquanto a experiência em ensino e preparação de docentes me permitiu compreender as necessidades da outra pessoa, buscando trazer assim a melhor experiência possível. 
 
 Desta forma, desenvolvi muitas competências durante minha carreira, as quais se mostram essenciais para o perfil dentre a área Tech, como disciplina, comunicação assertiva e aprendizado aprofundado.
 
-Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas e estagiária na área de User Experience, assim Dev e UX hoje é parte de quem sou e do que quero!
+Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, me tornei estudante de Análise e Desenvolvimento de Sistemas e estagiária na área de User Experience, assim UX e Desenvolvedora Front-End são parte de quem sou e do que quero!
 
-Para isso, até o momento, desenvolvi projetos usando:
-- Javascript
-- CSS
-- HTML.
 <br>
 <br>
 </p>
