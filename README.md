@@ -30,15 +30,6 @@ Em 2022, fui estudante do Empower Code for Woman by Zenvia e Alura. E, em 2023, 
 </div>
 
 ###
-
-
-<div align="center">
- 
-  ![snake gif](https://github.com/yasmindematos/yasmindematos/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-###
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank">
