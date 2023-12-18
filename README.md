@@ -9,7 +9,7 @@ Formação anterior em Letras - Inglês, com pós-graduação em Linguística. A
 
 Para mais informações, entre em contato: yasmindmatos@gmail.com
 
-###
+<hr>
 
 Tech professional with one year of experience in a multinational company in the EdTech sector. My journey is marked by a solid expertise in editing, revising, and translating texts, as well as preparing educational materials. I have skills in content design and UX/UI, with a focus on efficient communication, teamwork, and meeting deadlines.
 
