@@ -3,7 +3,7 @@
   <img height="300" src="https://user-images.githubusercontent.com/98225965/195967757-d5704a01-f4d7-4bde-910e-89615f273504.png"  />
 </p>
 </div>
-Profissional da área Tech com um ano de experiência em empresa multinacional do segmento de EdTech e interesse em Technical Writing, Content Design, UX Writing e QA. 
+Profissional da área Tech com um ano de experiência em empresa multinacional do segmento de EdTech. Interesse em Technical Writing, Content Design, UX Writing e QA. 
 Com uma trajetória marcada por uma sólida expertise em edição, revisão e tradução de textos, além da preparação de materiais educacionais. Possui habilidades em design de conteúdo e UX/UI, com destaque para uma comunicação eficiente, trabalho em equipe e respeito a prazos.
 
 Formação anterior em Letras - Inglês, com pós-graduação em Linguística. Atualmente, graduanda em Análise e Desenvolvimento de Sistemas. Apaixonada por criar soluções inovadoras para aprimorar a experiência da pessoa usuária, com uma abordagem única no campo de tecnologia, combinando habilidades técnicas e compreensão profunda das necessidades de usuários e usuárias.
