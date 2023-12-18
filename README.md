@@ -14,6 +14,7 @@ Para mais informações, entre em contato: yasmindmatos@gmail.com
 Tech professional with one year of experience in a multinational company in the EdTech sector. Interested in Technical Writing, Content Design, UX Writing, and QA.
 My journey is marked by a solid expertise in editing, revising, and translating texts, as well as preparing educational materials. I have skills in content design and UX/UI, with a focus on efficient communication, teamwork, and meeting deadlines.
 My previous education is in English Language and a postgraduate degree in Linguistics. Currently, I am a student in Analysis and Systems Development. I am passionate about creating innovative solutions to enhance the user experience, approaching the field of technology with a unique perspective that combines technical skills with a deep understanding of users' needs.
+
 For more information, feel free to contact me at yasmindmatos@gmail.com
 
 <br>
