@@ -36,9 +36,19 @@ For more information, feel free to contact me at yasmindmatos@gmail.com
 
 ###
 
+
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yasmindematos&theme=onedark)](https://github.com/yasmindematos/github-profile-trophy)
+
+
+###
+
+
+<hr>
+
+
+![yazmindematos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazmindematos&show_icons=true&theme=synthwave)
 
 
 ###
