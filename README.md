@@ -21,6 +21,11 @@ For more information, feel free to contact me at yasmindmatos@gmail.com
 <br>
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yasmindematos/yasmindematos/assets/98225965/82b5756b-e759-4a7a-9430-1aff9938c07c">
+</p>
+
+
 ###
 
 <hr>
