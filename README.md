@@ -35,6 +35,14 @@ For more information, feel free to contact me at yasmindmatos@gmail.com
 </div>
 
 ###
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasmindematos&theme=onedark)](https://github.com/yasmindematos/github-profile-trophy)
+
+
+###
+
+
 <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank">
