@@ -48,7 +48,7 @@ For more information, feel free to contact me at yasmindmatos@gmail.com
 <hr>
 
 
-![yazmindematos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazmindematos&show_icons=true&theme=synthwave)
+![yazmindematos's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmindematos&show_icons=true&theme=synthwave)
 
 
 ###
