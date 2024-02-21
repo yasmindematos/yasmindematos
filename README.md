@@ -4,6 +4,7 @@
 </p>
 </div>
 👋 Olá! Sou Yasmin, entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo e UX, destaco-me na criação de materiais que não apenas instruem, mas também engajam e inspiram.
+
 <br>
 
 🛠 Minhas habilidades incluem:
