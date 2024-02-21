@@ -3,20 +3,36 @@
   <img height="300" src="https://user-images.githubusercontent.com/98225965/195967757-d5704a01-f4d7-4bde-910e-89615f273504.png"  />
 </p>
 </div>
-Profissional da área Tech com um ano de experiência em empresa multinacional do segmento de EdTech. Interesse em Technical Writing, Content Design, UX, QA e Desenvolvimento Front-End. 
-Com uma trajetória marcada por uma sólida expertise em edição, revisão e tradução de textos, além da preparação de materiais educacionais. Possui habilidades em design de conteúdo e UX/UI, com destaque para uma comunicação eficiente, trabalho em equipe e respeito a prazos.
-Formação anterior em Letras - Inglês, com pós-graduação em Linguística. Atualmente, graduanda em Análise e Desenvolvimento de Sistemas. Apaixonada por criar soluções inovadoras para aprimorar a experiência da pessoa usuária, com uma abordagem única no campo de tecnologia, combinando habilidades técnicas e compreensão profunda das necessidades de usuários e usuárias.
+👋 Olá! Sou Yasmin, entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo e UX, destaco-me na criação de materiais que não apenas instruem, mas também engajam e inspiram.
 
-Para mais informações, entre em contato: yasmindmatos@gmail.com
+🛠 Minhas habilidades incluem:
 
-<hr>
+• QA (Quality Assurance): Implementação de práticas de QA para assegurar qualidade e funcionalidade de produtos, identificando e corrigindo falhas, com foco na melhoria contínua do processo de desenvolvimento de software.
+• UX Writing & Content Design: Desenvolvimento de conteúdo com foco na usabilidade, acessibilidade e na jornada do usuário.
+• UX Research: Emprego de metodologias de pesquisa para capturar insights profundos sobre as necessidades dos usuários.
+• Technical Writing: Criação de documentações técnicas claras e compreensíveis.
 
-Tech professional with one year of experience in a multinational company in the EdTech sector. Interested in Technical Writing, Content Design, UX, QA, and Dev Front-End.
-My journey is marked by a solid expertise in editing, revising, and translating texts, as well as preparing educational materials. I have skills in content design and UX/UI, with a focus on efficient communication, teamwork, and meeting deadlines.
-My previous education is in English Language and a postgraduate degree in Linguistics. Currently, I am a student in Analysis and Systems Development. I am passionate about creating innovative solutions to enhance the user experience, approaching the field of technology with a unique perspective that combines technical skills with a deep understanding of users' needs.
+🔧 Ferramentas que utilizo:
 
-For more information, feel free to contact me at yasmindmatos@gmail.com
+• Desenvolvimento Web: HTML, CSS, JavaScript - Ferramentas fundamentais para criação e estilização de interfaces de usuário, permitindo-me implementar soluções eficazes e visualmente atraentes.
+• Pesquisa de Usuário: Maze, Notably AI - Essas ferramentas me ajudam a coletar e analisar feedback dos usuários, essencial para o refinamento da experiência do usuário.
+• Gestão de Projetos e Colaboração: Miro, Notion, Trello, Slack - Conjunto de ferramentas que emprego para gerenciar projetos, promover a colaboração entre equipes e manter a comunicação eficiente.
+• Design & Prototipagem: Figma - Utilizo essa ferramenta para design e prototipagem de UI/UX, facilitando a visualização de conceitos e a colaboração com equipes de desenvolvimento.
 
+💡 Minha rotina envolve:
+
+• Colaborar estreitamente com equipes de desenvolvimento, design e educação para garantir que o conteúdo atenda às necessidades de pessoas usuárias e aos objetivos do produto.
+• Produzir e revisar conteúdo, garantindo que a comunicação seja eficaz, acessível e alinhada às diretrizes de marca.
+
+🎓 Formação e aprimoramento contínuo:
+
+• Atualmente aprimorando minhas competências técnicas em Análise e Desenvolvimento de Sistemas.
+• Graduação em Letras - Inglês e Pós-graduação em Linguística.
+• Certificações em áreas chave como UX Writing, QA, JavaScript, CSS, HTML e Lógica de Programação.
+
+🌟 Profissionalmente, sou movida pela paixão em criar soluções que façam a diferença, sempre buscando inovar e superar expectativas. Pronta para colaborar com equipes que valorizam a criatividade, a inovação e o comprometimento com a excelência.
+
+📧 Contato: yasmindmatos@gmail.com
 <br>
 <br>
 </p>
