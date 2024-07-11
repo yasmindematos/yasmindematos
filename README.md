@@ -4,6 +4,14 @@
   
 </div>
 Entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo, Data-Driven UX e UX Writing, destaco-me na criação de produtos que engajam e inspiram.
+<br>
+
+<br>
+<br>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/yasmindematos/yasmindematos/assets/98225965/82b5756b-e759-4a7a-9430-1aff9938c07c">
+</p>
 
 <br>
 <br>
@@ -62,11 +70,6 @@ Entusiasta da tecnologia com uma trajetória profissional diversificada, atualme
 <br>
 <br>
 </p>
-
-<p align="center">
-  <img width="460" height="300" src="https://github.com/yasmindematos/yasmindematos/assets/98225965/82b5756b-e759-4a7a-9430-1aff9938c07c">
-</p>
-
 
 ###
 
