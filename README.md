@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8349AC&random=false&width=435&lines=Hello+world%2C+sou+a+Yasmin!" alt="Typing SVG" /></a>
   
 </div>
-Entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo, Data-Driven UX e UX Writing, destaco-me na criação de produtos que engajam e inspiram.
+Entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo, Data-Driven UX, UX Writing e UX Research, destaco-me na criação de produtos que engajam e inspiram.
 <br>
 
 <br>
