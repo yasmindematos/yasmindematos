@@ -22,45 +22,60 @@ Entusiasta da tecnologia com uma trajetória profissional diversificada, atualme
 
 • Data-Driven UX: Utilização de dados quantitativos e qualitativos para informar decisões de design e melhorar continuamente a experiência do usuário.
 <br> 
+<br>
 • UX Research: Emprego de metodologias de pesquisa para capturar insights profundos sobre as necessidades dos usuários.
+<br> 
 <br>
 • Análise de Dados: Capacidade de coletar, processar e analisar dados para extrair insights valiosos e orientar estratégias de design e produto.
+<br> 
 <br>
 • UX Writing & Content Design: Desenvolvimento de conteúdo com foco na usabilidade, acessibilidade e na jornada do usuário.
+<br> 
 <br>
 
 🔧 Ferramentas que utilizo:
 <br>
 
 • Pesquisa de usuário: Maze, Notably AI - Essas ferramentas me ajudam a coletar e analisar feedback dos usuários, essencial para o refinamento da experiência do usuário.
+<br> 
 <br>
 • Análise de Dados: Excel, Google Analytics - Utilizo essas ferramentas para coletar e analisar dados, proporcionando insights que informam e melhoram a experiência do usuário.
+<br> 
 <br>
 • Gestão de projetos e colaboração: Miro, Notion, Trello, Slack - Conjunto de ferramentas que emprego para gerenciar projetos, promover a colaboração entre equipes e manter a comunicação eficiente.
+<br> 
 <br>
 • Design & prototipagem: Figma - Utilizo essa ferramenta para design e prototipagem de UI/UX, facilitando a visualização de conceitos e a colaboração com equipes de desenvolvimento.
+<br> 
 <br>
 • Desenvolvimento Web: HTML, CSS, JavaScript - Ferramentas fundamentais para criação e estilização de interfaces de usuário, permitindo-me implementar soluções eficazes e visualmente atraentes.
+<br> 
 <br>
 
 💡 Minha rotina envolve:
 <br>
 
 • Colaborar estreitamente com equipes de desenvolvimento, design e educação para garantir que o conteúdo atenda às necessidades de pessoas usuárias e aos objetivos do produto.
+<br> 
 <br>
 • Analisar dados e feedback de usuários para informar decisões de design e melhorar continuamente os produtos e serviços.
+<br> 
 <br>
 • Produzir e revisar conteúdo, garantindo que a comunicação seja eficaz, acessível e alinhada às diretrizes de marca.
+<br> 
 <br>
 
 🎓 Formação e aprimoramento contínuo:
 <br>
 
 • Atualmente aprimorando minhas competências técnicas em Análise e Desenvolvimento de Sistemas.
+<br> 
 <br>
 • Graduação em Letras - Inglês e Pós-graduação em Linguística.
+<br> 
 <br>
 • Cursos livres em áreas chave como UX Writing, Data-Driven UX, JavaScript, CSS, HTML e Lógica de Programação.
+<br> 
 <br>
 
 🌟 Profissionalmente, sou movida pela paixão em criar soluções que façam a diferença, sempre buscando inovar e superar expectativas. Pronta para colaborar com equipes que valorizam a criatividade, a inovação e o comprometimento com a excelência.
