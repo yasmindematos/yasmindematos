@@ -60,7 +60,7 @@ Entusiasta da tecnologia com uma trajetória profissional diversificada, atualme
 <br>
 • Graduação em Letras - Inglês e Pós-graduação em Linguística.
 <br>
-• Certificações em áreas chave como UX Writing, Data-Driven UX, JavaScript, CSS, HTML e Lógica de Programação.
+• Cursos livres em áreas chave como UX Writing, Data-Driven UX, JavaScript, CSS, HTML e Lógica de Programação.
 <br>
 
 🌟 Profissionalmente, sou movida pela paixão em criar soluções que façam a diferença, sempre buscando inovar e superar expectativas. Pronta para colaborar com equipes que valorizam a criatividade, a inovação e o comprometimento com a excelência.
