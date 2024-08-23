@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8349AC&random=false&width=435&lines=Hello+world%2C+sou+a+Yasmin!" alt="Typing SVG" /></a>
   
 </div>
-Entusiasta da tecnologia com uma trajetória profissional diversificada, atualmente focada em enriquecer experiências digitais em uma EdTech. Com sólida base em Design de Conteúdo, Data-Driven UX, UX Writing e UX Research, destaco-me na criação de produtos que engajam e inspiram.
+Profissional de tecnologia com foco em Análise de Dados, Business Intelligence e tomada de decisões orientada por dados. Desde 2023, direcionando a carreira para transformar dados em insights estratégicos, utilizando ferramentas como Power BI para desenvolver dashboards interativos que potencializam a tomada de decisões. Experiência anterior em experiência do usuário orientada por dados (Data-Driven UX) me oferece uma perspectiva diferenciada para entender as necessidades dos usuários e convertê-las em soluções eficazes orientadas por dados, especialmente no setor de EdTech.
 <br>
 
 <br>
@@ -20,65 +20,66 @@ Entusiasta da tecnologia com uma trajetória profissional diversificada, atualme
 <br>
 
 
-• Data-Driven UX: Utilização de dados quantitativos e qualitativos para informar decisões de design e melhorar continuamente a experiência do usuário.
+• Experiência do usuário orientada por dados (Data-Driven UX): Aplicação de dados quantitativos e qualitativos para melhorar continuamente a experiência do usuário, conectando suas necessidades aos objetivos organizacionais.
 <br> 
 <br>
-• UX Research: Emprego de metodologias de pesquisa para capturar insights profundos sobre as necessidades dos usuários.
+• Pesquisa de UX e Design de Conteúdo: Utilização de metodologias de pesquisa e criação de conteúdo que garantem uma experiência do usuário fluida e eficaz.
 <br> 
 <br>
-• Análise de Dados: Capacidade de coletar, processar e analisar dados para extrair insights valiosos e orientar estratégias de design e produto.
+• Business Intelligence: Criação de relatórios e dashboards em Power BI que suportam a inteligência de negócios, facilitando a visualização e a interpretação de dados.
 <br> 
 <br>
-• UX Writing & Content Design: Desenvolvimento de conteúdo com foco na usabilidade, acessibilidade e na jornada do usuário.
+• Análise de Dados: Coleta, processamento e análise de grandes volumes de dados para identificar padrões e gerar insights valiosos que orientam decisões estratégicas.
 <br> 
 <br>
+
 
 🔧 Ferramentas que utilizo:
 <br>
 
-• Pesquisa de usuário: Maze, Notably AI - Essas ferramentas me ajudam a coletar e analisar feedback dos usuários, essencial para o refinamento da experiência do usuário.
+• Maze, Notably AI: Ferramentas para pesquisa de usuário, permitindo a coleta e análise de feedback essencial para otimização da experiência do usuário.
 <br> 
 <br>
-• Análise de Dados: Excel, Google Analytics - Utilizo essas ferramentas para coletar e analisar dados, proporcionando insights que informam e melhoram a experiência do usuário.
+• Power BI, Excel, Google Analytics: Para análise e visualização de dados, criando insights que fundamentam a estratégia e a tomada de decisões.
 <br> 
 <br>
-• Gestão de projetos e colaboração: Miro, Notion, Trello, Slack - Conjunto de ferramentas que emprego para gerenciar projetos, promover a colaboração entre equipes e manter a comunicação eficiente.
+• Miro, Notion, Trello, Slack: Conjunto de ferramentas para gestão de projetos e colaboração, garantindo a eficiência no trabalho em equipe e a comunicação clara.
 <br> 
 <br>
-• Design & prototipagem: Figma - Utilizo essa ferramenta para design e prototipagem de UI/UX, facilitando a visualização de conceitos e a colaboração com equipes de desenvolvimento.
+• Figma: Para design e prototipagem de interfaces de usuário, possibilitando a visualização e desenvolvimento de conceitos de forma colaborativa.
 <br> 
 <br>
-• Desenvolvimento Web: HTML, CSS, JavaScript - Ferramentas fundamentais para criação e estilização de interfaces de usuário, permitindo-me implementar soluções eficazes e visualmente atraentes.
+• HTML, CSS, JavaScript: Ferramentas fundamentais para criação e estilização de interfaces de usuário, permitindo-me implementar soluções eficazes e visualmente atraentes.
 <br> 
 <br>
 
 💡 Minha rotina envolve:
 <br>
 
-• Colaborar estreitamente com equipes de desenvolvimento, design e educação para garantir que o conteúdo atenda às necessidades de pessoas usuárias e aos objetivos do produto.
+• Análise de dados e geração de insights: Transformar dados em informações acionáveis que orientem o desenvolvimento de produtos e estratégias de negócios.
 <br> 
 <br>
-• Analisar dados e feedback de usuários para informar decisões de design e melhorar continuamente os produtos e serviços.
+• Colaboração ultidisciplinar: Trabalho próximo com equipes de desenvolvimento, design e outras partes interessadas para garantir que os dados suportem os objetivos do produto.
 <br> 
 <br>
-• Produzir e revisar conteúdo, garantindo que a comunicação seja eficaz, acessível e alinhada às diretrizes de marca.
+• Otimização contínua: Revisão constante de soluções baseadas em dados para superar expectativas e alcançar resultados excepcionais.
 <br> 
 <br>
 
 🎓 Formação e aprimoramento contínuo:
 <br>
 
-• Atualmente aprimorando minhas competências técnicas em Análise e Desenvolvimento de Sistemas.
+• Graduanda em Análise e Desenvolvimento de Sistemas pela UNINTER, com foco em aprimorar competências em análise de dados e Business Intelligence.
 <br> 
 <br>
-• Graduação em Letras - Inglês e Pós-graduação em Linguística.
+• Formação em Letras - Inglês e Pós-graduação em Linguística.
 <br> 
 <br>
-• Cursos livres em áreas chave como UX Writing, Data-Driven UX, JavaScript, CSS, HTML e Lógica de Programação.
+• Cursos complementares: Power BI, Análise de Dados, Data-Driven UX, Pesquisa de UX, e programação (JavaScript, CSS, HTML).
 <br> 
 <br>
 
-🌟 Profissionalmente, sou movida pela paixão em criar soluções que façam a diferença, sempre buscando inovar e superar expectativas. Pronta para colaborar com equipes que valorizam a criatividade, a inovação e o comprometimento com a excelência.
+🌟 Sou movida pela paixão em transformar dados em soluções impactantes, sempre buscando inovar e superar expectativas. Estou pronta para colaborar com equipes que valorizam a criatividade, a inovação e o compromisso com a excelência.
 <br>
 
 📧 Contato: yasmindmatos@gmail.com
