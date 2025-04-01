@@ -69,7 +69,10 @@ Profissional de tecnologia com foco em Análise de Dados, Business Intelligence 
 🎓 Formação e aprimoramento contínuo:
 <br>
 
-• Graduanda em Análise e Desenvolvimento de Sistemas pela UNINTER, com foco em aprimorar competências em análise de dados e Business Intelligence.
+• Pós-graduanda em Product Management pela Univ. Descomplica.
+<br> 
+<br>
+• Graduada em Análise e Desenvolvimento de Sistemas pela UNINTER, com foco em aprimorar competências em análise de dados e Business Intelligence.
 <br> 
 <br>
 • Formação em Letras - Inglês e Pós-graduação em Linguística.
